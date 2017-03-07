@@ -1,0 +1,10 @@
+com\example\controller\UserController.class
+www\www\App.class
+com\example\DemoApplication.class
+com\example\entity\AuthorSettings.class
+com\example\Interceptor\ErrorInterceptor.class
+com\example\dao\UserDao.class
+com\example\configuration\HelloController.class
+com\example\controller\MainsiteErrorController.class
+com\example\configuration\MyWebAppConfigurer.class
+com\example\entity\User.class
